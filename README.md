@@ -3,10 +3,11 @@ GL Sports - Online Shopping E-Commerce Website
 
 A PHP e-commerce web application.
 
-Sports Shopping Website
+**Sports Shopping Website**
+
 Welcome to our sports shopping website! This project is an ecommerce platform where users can browse and purchase sports-related products. Whether you’re a sports enthusiast or just looking for quality gear, we’ve got you covered.
 
-Features
+**Features**
 
 Product Categories: Browse products by category (e.g., apparel, footwear, equipment).
 
@@ -23,6 +24,8 @@ Order History: View your past orders.
 Responsive Design: Enjoy a seamless experience on desktop and mobile devices.
 
 
-Enjoy!
+
+**Enjoy!**
+
 
 Currently only COD (Cash on Delivery), has been implemented. Working on email delivery on purchase and payment gateway. Stay tuned for the updates.
