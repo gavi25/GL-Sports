@@ -9,12 +9,19 @@ Welcome to our sports shopping website! This project is an ecommerce platform wh
 Features
 
 Product Categories: Browse products by category (e.g., apparel, footwear, equipment).
+
 Search Functionality: Easily find specific items using our search bar.
+
 User Accounts: Create an account, log in, and manage your profile.
+
 Shopping Cart: Add products to your cart and proceed to checkout.
+
 Payment Integration: Securely pay for your purchases.
+
 Order History: View your past orders.
+
 Responsive Design: Enjoy a seamless experience on desktop and mobile devices.
+
 
 Enjoy!
 
